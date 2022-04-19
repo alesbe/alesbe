@@ -29,4 +29,5 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 ## Codewars
 [![Codewars Badge](https://www.codewars.com/users/Alesbe/badges/large)](https://www.codewars.com/users/Alesbe)
 
-⬇️ Check my pinned projects! 🎨 ⬇️
+<br>
+<h3 align="center">⬇️🎨 Check my pinned projects! 🎨⬇️</h3>
