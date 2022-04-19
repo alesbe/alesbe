@@ -1,6 +1,6 @@
 ### 🚧 Work in progress README, check my pinned repos while fixing! 🚧
 
-<img src="https://github-profile-trophy.vercel.app/?username=alesbe&theme=juicyfresh&no-bg=true" />
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 <!--
 **alesbe/alesbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
