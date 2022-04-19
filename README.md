@@ -26,8 +26,10 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
 - 📓 [React Native](https://www.udemy.com/course/react-native-fh/)
 
+<!--
 ## Codewars
 [![Codewars Badge](https://www.codewars.com/users/alesbe/badges/large)](https://www.codewars.com/users/alesbe)
 
 <br>
 <h3 align="center">⬇️🎨 Check my pinned projects! 🎨⬇️</h3>
+-->
