@@ -1,5 +1,8 @@
-### 🚧 Work in progress README, check my pinned repos while fixing! 🚧
+<p align="center">
+<h1> 🚧 Work in progress README, check my pinned repos while fixing! 🚧 </h1>
 [![Codewars Badge](https://www.codewars.com/users/Alesbe/badges/large)](https://www.codewars.com/users/Alesbe)
+
+</p>
 <!--
 **alesbe/alesbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
