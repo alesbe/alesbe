@@ -3,8 +3,8 @@
 Self-taught developer. Code your dreams, develop your ideas! 🤠
 
 ## Interests
-- ⚙️ Low-level programming and understand how things works
 - 🔌 Web app developer but more interested in backend development
+- ⚙️ Low-level programming and understand how things works
 - ☁️ Cloud computing and descentralization
 - 🧰 Open source projects
 
@@ -21,6 +21,8 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 - ✨ MERN Stack (Mongo DB, Express, React, NodeJS)
 - 📱 React Native
 - 📊 SFML
+- ...
+- 🛠️ These are my most used, but I also worked with other frameworks in small projects!
 
 ## Completed courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
