@@ -18,7 +18,10 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 - 🧠 Ease to learn new languages!
 
 ## Frameworks and libraries
-- ✨ MERN Stack (Mongo DB, Express, React, NodeJS)
+- ⚛️ React
+- 🔋 NodeJS
+- 🍃 MongoDB
+- 💾 mySQL
 - 📱 React Native
 - 📊 SFML
 - ...
