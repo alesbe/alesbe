@@ -5,6 +5,7 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 ## Interests
 - ⚙️ Low-level programming and understand how things works
 - 🔌 Web app developer but more interested in backend development
+- ☁️ Cloud computing and descentralization
 - 🧰 Open source projects
 
 ## Languages
