@@ -27,7 +27,7 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 - ...
 - 🛠️ These are my most used, but I also worked with other frameworks in small projects!
 
-## Completed courses
+## Certified courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
 - 📓 [React Native](https://www.udemy.com/course/react-native-fh/)
