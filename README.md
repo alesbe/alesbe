@@ -3,34 +3,36 @@
 Self-taught developer. Code your dreams, develop your ideas! 🤠
 
 ## Interests
-- 🔌 Web app developer but more interested in backend development
+- 🔮 Web development (Both frontend and backend!)
 - ⚙️ Low-level programming and understand how things works
 - ☁️ Cloud computing and descentralization
 - 🧰 Open source projects
 
 ## Languages
-- 💻 Javascript / Typescript
+- 🗺️ Javascript / Typescript
 - 🖥️ HTML / CSS
 - 🔩 C++
 - 🐍 Python
-- 💾 SQL
 - ...
-- 🧠 Ease to learn new languages!
+- 🧠 Those are my main ones, ease to learn new languages!
 
-## Frameworks and libraries
+## Frameworks and technologies
 - ⚛️ React
 - 🔋 NodeJS
 - 🍃 MongoDB
-- 💾 mySQL
 - 📱 React Native
+- 🧶 Git
+- 🪁 Express.js
+- 🎢 Socket.IO
 - 📊 SFML
 - ...
-- 🛠️ These are my most used, but I also worked with other frameworks in small projects!
+- 🛠️ These are my most used, but I also worked with others!
 
-## Certified courses
+## Courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
-- 📓 [React Native](https://www.udemy.com/course/react-native-fh/)
+- 📙 [React Native](https://www.udemy.com/course/react-native-fh/)
+- 📕 [The Odin Project](https://www.theodinproject.com/)
 
 <!--
 ## Codewars
