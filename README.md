@@ -2,9 +2,6 @@
 
 Self-taught developer. Code your dreams, develop your ideas! 🤠
 
-## Lists
-- [🚀 Cool JS proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
-
 ## Interests
 - 🔮 Web development (Both frontend and backend!)
 - ⚙️ Low-level programming and understand how things works
@@ -30,6 +27,11 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 - 📊 SFML
 - ...
 - 🛠️ These are my most used, but I also worked with others!
+
+## Lists
+- [🚀 Cool JS proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
+- ...
+- 😄 I organized some of my projects in lists, but you can also check my repos!
 
 ## Courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
