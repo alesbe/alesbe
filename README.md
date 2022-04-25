@@ -2,6 +2,9 @@
 
 Self-taught developer. Code your dreams, develop your ideas! 🤠
 
+## Lists
+- [🚀 Cool JS proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
+
 ## Interests
 - 🔮 Web development (Both frontend and backend!)
 - ⚙️ Low-level programming and understand how things works
