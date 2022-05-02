@@ -29,6 +29,7 @@ All my projects are organized in lists, make sure to check them!
 - 🔋 NodeJS
 - 🍃 MongoDB
 - 📱 React Native
+- 🐳 Docker
 - 🧶 Git
 - 🪁 Express.js
 - 🎢 Socket.IO
