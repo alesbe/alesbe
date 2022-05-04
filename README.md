@@ -5,8 +5,9 @@ Self-taught developer. Code your dreams, develop your ideas! 🤠
 All my projects are organized in lists, make sure to check them!
 
 ## Lists
-- [🚀 Cool JS proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
+- [🚀 Cool JS Proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
+- [🐳 Docker Apps](https://hub.docker.com/u/alesbe)
 - ...
 - 😄 I organized some of my projects in lists, but you can also check my repos!
 
