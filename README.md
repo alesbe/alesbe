@@ -34,6 +34,7 @@ All my projects are organized in lists, make sure to check them!
 - 🧶 Git
 - 🪁 Express.js
 - 🎢 Socket.IO
+- 🌿 Mongoose
 - 📊 SFML
 - ...
 - 🛠️ These are my most used, but I also worked with others!
