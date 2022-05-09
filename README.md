@@ -1,6 +1,6 @@
 ## Welcome to my profile! 🥞
 
-Self-taught developer. Code your dreams, develop your ideas! 🚀
+Code your dreams, develop your ideas! 🚀
 <br><br>
 All my projects are organized in lists, make sure to check them!
 
