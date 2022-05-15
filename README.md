@@ -5,7 +5,7 @@ Code your dreams, develop your ideas! 🚀
 All my projects are organized in lists, make sure to check them!
 
 ## Current projects
-- [📊 Sorting VIsualizer](https://github.com/alesbe/sorting-visualizer)
+- [📊 Sorting Visualizer](https://github.com/alesbe/sorting-visualizer)
 - ...
 - 🛸 This is the projects that I'm working on right now!
 
