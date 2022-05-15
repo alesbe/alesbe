@@ -4,6 +4,11 @@ Code your dreams, develop your ideas! 🚀
 <br><br>
 All my projects are organized in lists, make sure to check them!
 
+## Current projects
+- [📊 Sorting VIsualizer](https://github.com/alesbe/sorting-visualizer)
+- ...
+- 🛸 This is the projects that I'm working on right now!
+
 ## Lists
 - [🚀 Cool JS Proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
