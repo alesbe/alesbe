@@ -7,12 +7,10 @@ All my projects are organized in lists, make sure to check them!
 ## Current projects
 - [📊 Sorting Visualizer](https://github.com/alesbe/sorting-visualizer)
 - ...
-- 🛸 This is the projects that I'm working on right now!
+- 🛸 These are the projects that I'm working on right now!
 
 ## Articles made by me
 - [🐳 Docker 101: Dockerizing your first app](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
-- ...
-- 📰 These are some of the articles that I made!
 
 ## Lists
 - [🚀 Cool JS Proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
