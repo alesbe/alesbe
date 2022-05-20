@@ -47,7 +47,7 @@ All my projects are organized in lists, make sure to check them!
 - 🔩 C++
 - 🐍 Python
 - ...
-- 🧠 Those are my main ones, ease to learn new languages!
+- 🧠 Those are my main ones, ease to learn new languages and frameworks!
 
 ## Frameworks and technologies
 - ⚛️ React / Redux
