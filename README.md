@@ -47,6 +47,7 @@ All my projects are organized in lists, make sure to check them!
 - 🖼️ HTML / CSS
 - 🔩 C++
 - 🐍 Python
+- 🦀 (Learning) Rust
 - ...
 - 🧠 Those are my main ones, ease to learn new languages and frameworks!
 
