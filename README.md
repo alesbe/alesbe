@@ -63,7 +63,7 @@ All my projects are organized in lists, make sure to check them!
 - ...
 - 🛠️ These are my most used, but I also worked with others!
 
-## Courses
+## Specialized courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
 - 📙 [React Native](https://www.udemy.com/course/react-native-fh/)
