@@ -4,6 +4,8 @@ Code your dreams, develop your ideas! 🚀
 <br><br>
 All my projects are organized in lists, make sure to check them!
 
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" href="https://www.codewars.com/users/alesbe">
+
 ## Current projects
 - [📊 Sorting Visualizer](https://github.com/alesbe/sorting-visualizer)
 - ...
