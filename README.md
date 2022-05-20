@@ -20,6 +20,7 @@ All my projects are organized in lists, make sure to check them!
 
 ## Current projects
 - [📊 Sorting Visualizer](https://github.com/alesbe/sorting-visualizer)
+- 🦀 Curently learning [Rust](https://www.rust-lang.org/)!
 - ...
 - 🛸 These are the projects that I'm working on right now!
 
