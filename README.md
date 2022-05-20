@@ -34,29 +34,30 @@ All my projects are organized in lists, make sure to check them!
 - 😄 I organized some of my projects in lists, but you can also check my repos!
 
 ## Interests
-- 🔮 Web development (Both frontend and backend!)
+- 🔮 App/Web development (Both frontend and backend!)
 - ⚙️ Low-level programming and understand how things works
+- 📜 Learning new programming languages and paradigms
+- 🐧 [Linux](https://github.com/alesbe/dotfiles)
 - ☁️ Cloud computing and descentralization
 - 🧰 Open source projects
 
 ## Languages
 - 🗺️ Javascript / Typescript
-- 🖥️ HTML / CSS
+- 🖼️ HTML / CSS
 - 🔩 C++
 - 🐍 Python
 - ...
 - 🧠 Those are my main ones, ease to learn new languages!
 
 ## Frameworks and technologies
-- ⚛️ React
+- ⚛️ React / Redux
 - 🔋 NodeJS
 - 🍃 MongoDB
 - 📱 React Native
-- 🐳 Docker
-- 🐋 Docker Compose
+- 🐳 Docker / Docker Compose
 - 🧶 Git
 - 🪁 Express.js
-- 🎢 Socket.IO
+- 🎢 Socket.IO / Socket.IO Client
 - 🌿 Mongoose
 - 📊 SFML
 - ...
@@ -67,11 +68,3 @@ All my projects are organized in lists, make sure to check them!
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
 - 📙 [React Native](https://www.udemy.com/course/react-native-fh/)
 - 📕 [The Odin Project](https://www.theodinproject.com/)
-
-<!--
-## Codewars
-[![Codewars Badge](https://www.codewars.com/users/alesbe/badges/large)](https://www.codewars.com/users/alesbe)
-
-<br>
-<h3 align="center">⬇️🎨 Check my pinned projects! 🎨⬇️</h3>
--->
