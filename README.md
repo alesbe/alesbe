@@ -4,7 +4,19 @@ Code your dreams, develop your ideas! 🚀
 <br><br>
 All my projects are organized in lists, make sure to check them!
 
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" href="https://www.codewars.com/users/alesbe">
+<div>
+<a href="https://www.codewars.com/users/alesbe">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+</a>
+
+<a href="https://dev.to/alesbe">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
+
+<a href="https://medium.com/@alesbe">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+</div>
 
 ## Current projects
 - [📊 Sorting Visualizer](https://github.com/alesbe/sorting-visualizer)
