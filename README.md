@@ -24,7 +24,7 @@ All my projects are organized in lists, make sure to check them!
 - ...
 - 🛸 These are the projects that I'm working on right now!
 
-## Articles made by me
+## Articles
 - [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
 
 ## Lists
