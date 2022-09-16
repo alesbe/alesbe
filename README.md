@@ -18,21 +18,15 @@ All my projects are organized in lists, make sure to check them!
 </a>
 </div>
 
-## Current projects
-- [📊 Sorting Visualizer](https://github.com/alesbe/sorting-visualizer)
-- 🦀 Curently learning [Rust](https://www.rust-lang.org/)!
-- ...
-- 🛸 These are the projects that I'm working on right now!
-
-## Articles
-- [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
-
 ## Try my projects!
 - [📡 Rust / C++](https://github.com/stars/alesbe/lists/rust-c)
 - [🚀 Cool JS Proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
 - ...
 - 😄 I organized some of my projects in lists, but you can also check my repos!
+
+## Articles
+- [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
 
 ## Interests
 - 🔮 App/Web development (Both frontend and backend!)
