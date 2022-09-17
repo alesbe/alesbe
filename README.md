@@ -22,6 +22,7 @@ All my projects are organized in lists, make sure to check them!
 - [📡 Rust / C++](https://github.com/stars/alesbe/lists/rust-c)
 - [🚀 Cool JS Proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
+- [☕ Java Projects](https://github.com/stars/alesbe/lists/java-projects)
 - ...
 - 😄 I organized some of my projects in lists, but you can also check my repos!
 
