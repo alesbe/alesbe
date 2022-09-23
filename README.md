@@ -26,9 +26,6 @@ All my projects are organized in lists, make sure to check them!
 - ...
 - 😄 I organized some of my projects in lists, but you can also check my repos!
 
-## Articles
-- [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
-
 ## Interests
 - 🔮 App/Web development (Both frontend and backend!)
 - ⚙️ Low-level programming and understand how things works
@@ -40,16 +37,17 @@ All my projects are organized in lists, make sure to check them!
 ## Languages
 - 🗺️ Javascript / Typescript
 - 🖼️ HTML / CSS
+- ☕ Java
 - 🔩 C++
 - 🐍 Python
-- 🦀 (Learning) Rust
 - ...
 - 🧠 Those are my main ones, ease to learn new languages and frameworks!
 
 ## Frameworks and technologies
-- ⚛️ React / Redux
+- ⚛️ ReactJS
 - 🔋 NodeJS
 - 🍃 MongoDB
+- 💽 MySQL
 - 📱 React Native
 - 🐳 Docker / Docker Compose
 - 🧶 Git
@@ -60,8 +58,14 @@ All my projects are organized in lists, make sure to check them!
 - ...
 - 🛠️ These are my most used, but I also worked with others!
 
+## Articles
+- [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
+
 ## Specialized courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
 - 📙 [React Native](https://www.udemy.com/course/react-native-fh/)
 - 📕 [The Odin Project](https://www.theodinproject.com/)
+
+## Contact
+- 📧 alesbe.dev@gmail.com
