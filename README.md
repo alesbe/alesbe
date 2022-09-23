@@ -19,7 +19,7 @@ All my projects are organized in lists, make sure to check them!
 </div>
 
 ## Try my projects!
-- [🚀 Cool JS Proyects](https://github.com/stars/alesbe/lists/cool-js-proyects)
+- [🚀 NodeJS / ReactJS](https://github.com/stars/alesbe/lists/nodejs-reactjs)
 - [☕ Java Projects](https://github.com/stars/alesbe/lists/java-projects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
 - [📡 Rust / C++](https://github.com/stars/alesbe/lists/rust-c)
