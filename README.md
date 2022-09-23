@@ -18,7 +18,7 @@ All my projects are organized in lists, make sure to check them!
 </a>
 </div>
 
-## Try my projects!
+## Check my projects!
 - [🚀 NodeJS / ReactJS](https://github.com/stars/alesbe/lists/nodejs-reactjs)
 - [☕ Java Projects](https://github.com/stars/alesbe/lists/java-projects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
