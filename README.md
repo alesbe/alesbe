@@ -47,6 +47,7 @@ All my projects are organized in lists, make sure to check them!
 ## Frameworks and technologies
 - ⚛️ ReactJS
 - 🔋 NodeJS
+- 🏵️ Spring Boot
 - 🍃 MongoDB
 - 💽 MySQL
 - 📱 React Native
