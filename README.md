@@ -37,18 +37,19 @@ All my projects are organized in lists, make sure to check them!
 - 🧰 Open source projects
 
 ## Languages
-- 🗺️ Javascript / Typescript
-- 🖼️ HTML / CSS
 - ☕ Java
+- 🗺️ Javascript / Typescript
+- 🖼️ HTML / SCSS
 - 🔩 C++
 - 🐍 Python
 - ...
 - 🧠 Those are my main ones, ease to learn new languages and frameworks!
 
 ## Frameworks and technologies
+- 📐 Angular
+- 🏵️ Spring Boot
 - ⚛️ ReactJS
 - 🔋 NodeJS
-- 🏵️ Spring Boot
 - 🍃 MongoDB
 - 💽 MySQL
 - 📱 React Native
