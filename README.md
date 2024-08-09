@@ -30,20 +30,20 @@ All my projects are organized in lists, make sure to check them!
 
 ## Interests
 - 🔮 App/Web development (Both frontend and backend!)
+- ☁️ Cloud computing and descentralization
 - ⚙️ Low-level programming and understand how things works
 - 📜 Learning new programming languages and paradigms
 - 🐧 [Linux](https://github.com/alesbe/dotfiles)
-- ☁️ Cloud computing and descentralization
 - 🧰 Open source projects
 
 ## Languages
 - ☕ Java
 - 🗺️ Javascript / Typescript
+- 🐍 Python
 - 🖼️ HTML / SCSS
 - 🔩 C++
-- 🐍 Python
 - ...
-- 🧠 Those are my main ones, ease to learn new languages and frameworks!
+- 🧠 Those are my main ones, but I have ease to learn new languages and frameworks!
 
 ## Frameworks and technologies
 - 📐 Angular
@@ -52,13 +52,11 @@ All my projects are organized in lists, make sure to check them!
 - 🔋 NodeJS
 - 🍃 MongoDB
 - 💽 MySQL
-- 📱 React Native
 - 🐳 Docker / Docker Compose
+- 🚢 [Currently learning] Kubernetes
 - 🧶 Git
 - 🪁 Express.js
 - 🎢 Socket.IO / Socket.IO Client
-- 🌿 Mongoose
-- 📊 SFML
 - ...
 - 🛠️ These are my most used, but I also worked with others!
 
@@ -70,6 +68,8 @@ All my projects are organized in lists, make sure to check them!
 - 📘 [React](https://www.udemy.com/course/react-cero-experto/)
 - 📙 [React Native](https://www.udemy.com/course/react-native-fh/)
 - 📕 [The Odin Project](https://www.theodinproject.com/)
+- 📒 [Kubernetes](https://www.udemy.com/course/learn-kubernetes/)
 
 ## Contact
 - 📧 alesbe.dev@gmail.com
+- 🛜 [LinkedIn](https://www.linkedin.com/in/alvaroeb/)
