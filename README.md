@@ -19,7 +19,7 @@ All my projects are organized in lists, make sure to check them!
 </div>
 
 ## Check my projects!
-- [🚀 NodeJS / ReactJS](https://github.com/stars/alesbe/lists/nodejs-reactjs)
+- [🚀 NodeJS / ReactJS / Angular](https://github.com/stars/alesbe/lists/nodejs-reactjs)
 - [🧩 Algorithms ](https://github.com/stars/alesbe/lists/algorithms)
 - [☕ Java Projects](https://github.com/stars/alesbe/lists/java-projects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
