@@ -29,7 +29,7 @@ All my projects are organized in lists, make sure to check them!
 - 😄 I organized some of my projects in lists, but you can also check my repos!
 
 ## Interests
-- 🔮 App/Web development (Both frontend and backend!)
+- 🔮 App/Web development
 - ☁️ Cloud computing and descentralization
 - ⚙️ Low-level programming and understand how things works
 - 📜 Learning new programming languages and paradigms
@@ -53,7 +53,6 @@ All my projects are organized in lists, make sure to check them!
 - 🍃 MongoDB
 - 💽 MySQL
 - 🐳 Docker / Docker Compose
-- 🚢 [Currently learning] Kubernetes
 - 🧶 Git
 - 🪁 Express.js
 - 🎢 Socket.IO / Socket.IO Client
